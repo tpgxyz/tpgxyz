@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Tomasz and i support <a href=https://openmandriva.org> OpenMandriva Linux</a> distribution.
 
 <!--
 **tpgxyz/tpgxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Image OpenMandriva](https://gallery.openmandriva.org/upload/2013/08/27/20130827233714-375fee04.png)
